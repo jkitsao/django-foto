@@ -80,8 +80,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'gallery',
-        'USER': 'saphani',
-        'PASSWORD':'123abc',
+        'USER': 'kitsao',
+        'PASSWORD':'kitsao',
     }
 }
 
@@ -110,7 +110,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Africa/Kigali'
+TIME_ZONE = 'Africa/Nairobi'
 
 USE_I18N = True
 
