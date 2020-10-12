@@ -1,6 +1,6 @@
 # Personal Gallery App
 #### A personal gallery application that one displays their photos for others to see.
-#### By **Jacqueline Kayitesi**
+#### By **Jackson kitsao**
 ## Description
 A personal gallery application that one displays their photos for others to see who can copy the photos' links and share them.
 ## Behavior Driven Development
@@ -12,9 +12,9 @@ A personal gallery application that one displays their photos for others to see 
 
 * The program should navigate to pages with photos for a specified location when a specific location is clicked:
 
-     **Input Example**: Click on **Rwanda** on the navigation bar
+     **Input Example**: Click on **Kenya** on the navigation bar
 
-     **Output Example**: Redirected to a page with photos taken in Rwanda
+     **Output Example**: Redirected to a page with photos taken in Kenya
 
 * The program should navigate home page when home is clicked on the navbar:
 
@@ -31,7 +31,7 @@ A personal gallery application that one displays their photos for others to see 
 ## Setup/Installation Requirements
 To start using this project use the following commands:
 
-* `git clone https://github.com/kayitesijackie/gallery`
+* `git clone https://github.com/jkitsao/django-foto`
 * `cd gallery`
 * `atom .` or
 * `code . `(this is if Visual Studio Code is your preferred text editor)
@@ -44,7 +44,7 @@ To run this program
 ## Prerequisites
 You need the following to work on the project:
 
-`-Python version 3.6`
+`-Python version 3.7`
 
 `-Django 2.0`
 
@@ -64,5 +64,5 @@ https://jkgallery.herokuapp.com/
 ## License
 MIT License
 
-Copyright (c) 2019 *Kayitesi Jackie*
+Copyright (c) 2020 *Kitsao*
 
