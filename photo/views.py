@@ -27,5 +27,5 @@ def search_category(request):
         return render(request,'search.html',{'message':message,'images':searched_images,'locations':locations})
 
     else:
-        message = "You haven't searched for any category"
+        message = "You havent serached for an image yet !!!"
         return render(request,'search.html',{'message':message,'locations':locations})
