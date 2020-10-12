@@ -61,6 +61,9 @@ https://jkgallery.herokuapp.com/
 * HTML/CSS
 * Bootstrap
 
+## Known bugs
+#### the Admin side is currently still under dev
+
 ## License
 MIT License
 
